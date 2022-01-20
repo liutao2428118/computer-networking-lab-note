@@ -1,4 +1,4 @@
-### Wireshark实验：DNS (Page121)
+## Wireshark实验：DNS (Page121)
 
 #### 1.运行nslookup以获取一个亚洲的Web服务器的IP地址。该服务器的IP地址是什么？
 
@@ -102,3 +102,11 @@ Answers
 #### 10.这个网页包含一些图片。在获取每个图片前，您的主机是否都发出了新的DNS查询？
 
 没有，本地有 DNS 缓存信息，如果是其他域的资源可能需要重新 DNS
+
+## 资料
+
+* 官方文档第六版：[Wireshark_DNS_v6.01.pdf](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES/blob/master/WiresharkLab/Wireshark%E5%AE%9E%E9%AA%8C-DNS/Wireshark_DNS_v6.01.pdf)
+
+* 官方文档第七版：[Wireshark_DNS_v7.0.pdf](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES/blob/master/WiresharkLab/Wireshark%E5%AE%9E%E9%AA%8C-DNS/Wireshark_DNS_v7.0.pdf)
+
+* 翻译：[Wireshark实验-DNS.md](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES/blob/master/WiresharkLab/Wireshark%E5%AE%9E%E9%AA%8C-DNS/Wireshark%E5%AE%9E%E9%AA%8C-DNS.md)
