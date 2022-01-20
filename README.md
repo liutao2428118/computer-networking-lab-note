@@ -7,6 +7,8 @@
 ## Wireshark 实验
 
 * [Wireshark 实验：入门 (Page52)](https://github.com/liutao2428118/Computer-Networking-Lab-Note/blob/main/docs/wireshark/introduction.md)
+* [Wireshark 实验：HTTP (Page121)](https://github.com/liutao2428118/Computer-Networking-Lab-Note/blob/main/docs/wireshark/http.md)
+* [Wireshark 实验：DNS (Page121)](https://github.com/liutao2428118/Computer-Networking-Lab-Note/blob/main/docs/wireshark/dns.md)
 
 ## 套接字编程作业
 
