@@ -18,6 +18,8 @@
 
 ## 套接字编程作业
 
+* [套接字作业1：web服务器 (Page119)](https://github.com/liutao2428118/computer-networking-lab-note/blob/main/docs/socket-programming-assignment/%E5%A5%97%E6%8E%A5%E5%AD%97%E4%BD%9C%E4%B8%9A1-web%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
+
 ## 资料
 
 #### 视频
