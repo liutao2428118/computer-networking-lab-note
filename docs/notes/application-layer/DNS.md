@@ -29,7 +29,8 @@ IP地址标识主机、路由器
 
 例如：ustc.edu.cn
 
-```graph TB
+```mermaid
+graph TB
   cn-->顶级域
   edu-->二级域
   ustc-->三级域
