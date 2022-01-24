@@ -9,6 +9,8 @@
 * [应用层协议原理](https://github.com/liutao2428118/computer-networking-lab-note/blob/main/docs/notes/application-layer/%E5%BA%94%E7%94%A8%E5%B1%82%E5%8D%8F%E8%AE%AE%E5%8E%9F%E7%90%86.md)
 * [HTTP](https://github.com/liutao2428118/computer-networking-lab-note/blob/main/docs/notes/application-layer/HTTP.md)
 * [FTP](https://github.com/liutao2428118/computer-networking-lab-note/blob/main/docs/notes/application-layer/FTP.md)
+* [DNS](https://github.com/liutao2428118/computer-networking-lab-note/blob/main/docs/notes/application-layer/DNS.md)
+* [P2P](https://github.com/liutao2428118/computer-networking-lab-note/blob/main/docs/notes/application-layer/P2P.md)
 
 ## Wireshark 实验
 
@@ -19,6 +21,7 @@
 ## 套接字编程作业
 
 * [套接字作业1：web服务器 (Page119)](https://github.com/liutao2428118/computer-networking-lab-note/blob/main/docs/socket-programming-assignment/%E5%A5%97%E6%8E%A5%E5%AD%97%E4%BD%9C%E4%B8%9A1-web%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
+* [套接字作业2：UDPping程序](https://github.com/liutao2428118/computer-networking-lab-note/blob/main/docs/socket-programming-assignment/%E5%A5%97%E6%8E%A5%E5%AD%97%E4%BD%9C%E4%B8%9A2-UDPping%E7%A8%8B%E5%BA%8F.md)
 
 ## 资料
 
