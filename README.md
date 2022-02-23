@@ -21,7 +21,7 @@
 * [IP](https://github.com/liutao2428118/computer-networking-lab-note/blob/main/docs/notes/network-layer/IP.md)
 
 #### 链路层
-* [link](https://github.com/liutao2428118/computer-networking-lab-note/blob/main/docs/notes/link-layer/link.md)
+* [链路层与局域网](https://github.com/liutao2428118/computer-networking-lab-note/blob/main/docs/notes/link-layer/link.md)
 
 ## Wireshark 实验
 
