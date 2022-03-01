@@ -64,6 +64,8 @@
 
 * [套接字作业1：web服务器 (Page119)](https://github.com/liutao2428118/computer-networking-lab-note/blob/main/docs/socket/%E5%A5%97%E6%8E%A5%E5%AD%97%E4%BD%9C%E4%B8%9A1-web%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
 * [套接字作业2：UDPping程序(Page120)](https://github.com/liutao2428118/computer-networking-lab-note/blob/main/docs/socket/%E5%A5%97%E6%8E%A5%E5%AD%97%E4%BD%9C%E4%B8%9A2-UDPping%E7%A8%8B%E5%BA%8F.md)
+* [套接字作业3：邮件客户端 (Page121)](https://github.com/liutao2428118/computer-networking-lab-note/blob/main/docs/socket/%E5%A5%97%E6%8E%A5%E5%AD%97%E4%BD%9C%E4%B8%9A3-%E9%82%AE%E4%BB%B6%E5%AE%A2%E6%88%B7%E7%AB%AF.md)
+* [套接字作业4：多线程Web代理服务器 (Page121)](https://github.com/liutao2428118/computer-networking-lab-note/blob/main/docs/socket/%E5%A5%97%E6%8E%A5%E5%AD%97%E4%BD%9C%E4%B8%9A4-%E5%A4%9A%E7%BA%BF%E7%A8%8BWeb%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
 
 ## 资料
 
